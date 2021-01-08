@@ -20,6 +20,10 @@ public class test {
 
         System.out.println("commit 1");
 
+        System.out.println("commit 2");
+
+
+
         driver.close();
         driver.quit();
 
