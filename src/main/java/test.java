@@ -18,6 +18,11 @@ public class test {
         Thread.sleep(20000);
         System.out.println(driver.getTitle());
 
+        System.out.println("commit 1");
+
+        System.out.println("commit 3");
+
+
 
         driver.close();
         driver.quit();
