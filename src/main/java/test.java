@@ -18,6 +18,7 @@ public class test {
         Thread.sleep(20000);
         System.out.println(driver.getTitle());
 
+        System.out.println("commit 1");
 
         driver.close();
         driver.quit();
